@@ -1,0 +1,29 @@
+stillObjectMap:
+empty 0
+wall 1
+brick 2
+bomb 4
+portal 11
+
+number representation when load from map
+empty 0
+
+wall 1
+
+player 5
+
+enemies:
+ballom 6
+oneal 7
+kondoria 8
+
+brick:
+normal-brick 2
+bombs-brick -1
+speed-brick -2
+flames-brick -3
+wallpass-brick -4
+bombpass-brick -5
+flamepass-brick -6
+detonator-brick -7
+portal-brick 11
